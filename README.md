@@ -3,7 +3,7 @@
 <h1 align="center">
 - ZXORKTA - <br></h1>
 <p align="center">
-<img src="https://i.postimg.cc/kGKnDFSY/4331b062e74d82a20236ceede38eaacf.jpg?size=1000" height="428" width="428" />
+<img src="https://telegra.ph/file/d49af105bc18ac1870550.jpg"/>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ REST-APIs : <a href="https://luciaximena.site" target="_blank">Zxorkta REST-APis
 <a href="https://github.com/RavensVenix/zxorkta/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Idk%3F-yellow"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
-<img src="https://i.postimg.cc/sDCjqqFk/a68dc0e27574e71820746e25470bb48a.jpg?size=1000" height="428" width="428" />
+<img src="https://telegra.ph/file/7daa5bc8eaba06b323c86.jpg"/>
     </p>
 
 -------
