@@ -10,7 +10,7 @@
     }
   },
   "scripts": {
-    "start": "npm start"
+    "start": "npm i -g pm2 && pm2 start zxork.js && pm2 save && pm2 logs"
   },
   "keywords": [
     "termux",
