@@ -45,14 +45,14 @@ global.tg = "💙 Telegram : @Khairilofc" //telegram
 global.groupbot = "https://chat.whatsapp.com/Bn7PxZ06B3GL8BDEZhC36T"
 global.owner = ['60109102984']
 global.ownernomer = "60109102984" //ur number
-global.ownernomer2 = "60109102984" // second number
+global.ownernomer2 = "601124024797" // second number
 global.ownernomer3 = "60109102984" // stfu
 global.ownertag = '60109102984' //ur tag number
 global.botname = 'Kao Akebi-Bot愛' //ur bot name
 global.ghname = 'KhairilOFC' //ur github name
 global.linkz = "https://chat.whatsapp.com/Bn7PxZ06B3GL8BDEZhC36T" //your theme url which will be displayed on whatsapp
 global.websitex = "https://linkfly.to/Khairil" //ur website to be displayed
-global.thumbyt = "https://www.youtube.com/watch?v=aHnaBbLKEww" //change if you want to change thumbnail menu
+global.thumbyt = "https://youtu.be/n5i3QRvPA9Y" //change if you want to change thumbnail menu
 global.igthumb = "https://www.instagram.com/p/CmgsX4oSfaH/" //ig thumbnail for menu and etc
 global.botscript = 'https://github.com/KhairilOFC' //script link
 global.reactmoji = ["👑", "❤️", "✨", "🦋", "🎉", "💴", "💰", "💋", "❤️", "💛", "🧡", "💚", "💙", "💜", "🍇", "🍎", "🎂", "🍓", "🍫", "🍨", "🍩"] //ur menu react emoji
@@ -61,7 +61,7 @@ global.packname = "Kao Akebi-Bot愛\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
 global.author = "Khairil春" //ur sticker watermark author
 global.wm = "Kao Akebi-Bot愛" //ur watermark
 global.shit = `•`
-global.groupsend = '60109102984@g.us' //please change this !!
+global.groupsend = '60102551175@g.us' //please change this !!
 
 //Bot theme media
 global.thislogo = ["./storage/image/soktahu.png","./storage/image/bjir.png","./storage/image/woilah.png","./storage/image/okh.png","./storage/image/ancrit.png","./storage/image/ngetest.png","./storage/image/apalah.png","./storage/image/gtw.png","./storage/image/marin.png","./storage/image/marinn.png","./storage/image/okaja.png","./storage/image/aho.png","./storage/image/njir.png","./storage/image/bruh.png","./storage/image/mayan.png","./storage/image/nicelah.png","./storage/image/brutall.png","./storage/image/brutal.png"]
@@ -75,65 +75,9 @@ global.arakaras = ["./vn/ara ara.mp3","./vn/ara ara goblok.mp3","./vn/araaa.mp3"
 global.nolaks = ["./vn/ga mau.mp3","./vn/ga boleh.mp3","./vn/ga da.mp3"]
 
 //damtabase
-global.jasa = (`「 *Jasa Run Bot* 」
-*Platform : Google Cloud SDK*
-*Performa : Best*
-*Ram : 8GB Free*
-*Ping : 0012 Seconds*
-
-*Prices List 📍*
-*1 Week / 5K*
-*2 Week / 10K*
-*3 Week / 15K*
-*1 Month / 20K*
-
-*Anti Drop + Anti Lag*🔰
-
-「 *Beli APIKEY* 」
-*Keuntungan*✅
-*-Custom Apikey*
-*-Unlimited Limit*
-*-Banyak Fitur*
-
-*Prices List 🔖*
-*1 Week / 7k*
-*2 Week / 11k*
-*3 Week / 15k*
-*1 Bulan / 20k*
-
-Demo : *https://luciaximena.site*
-
-「 *Beli Premium* 」
-*Keuntungan* ✅
-*Fast Respond (delay removed)*
-*nuliskiri*
-*nuliskanan*
-*nglspam*
-*simi*
-*simien*
-*toanime*
-*openai*
-*openimage*
-*nsfw*
-*can add bot to group*
-*Unlimited Limit*
-*RentBot*
-*Premium Features*
-*Bugs|Viruses*
-*Frequently Asked Questions and Answers with the Owner Regarding the Bot*
-
-*Prices List📌*
-*1 Week / 5k*
-*2 Week / 10k*
-*3 Week / 15k*
-*1 Month / 20k*
-*2 Month / 25k*
-*3 Month / 30k*
-
-*Dijamin Premium Puas!!*
-
+global.jasa = (`「 *Jasa Sewa Bot* 」
 Minat🫐
-Contact ☎️ : *wa.me/6281338302495*`)
+Contact ☎️ : *wa.me/60109102984*`)
 global.rules = (`「 *RULES* 」
 	  「 *INDONESIAN* 」
 
@@ -207,7 +151,7 @@ global.autoread = true
 global.autorespondz = true
 global.autoonline = false
 global.autosw = true
-global.sendsw = '60109102984@s.whatsapp.net'
+global.sendsw = '601124024797@s.whatsapp.net'
 global.autobio = false
 global.prefix = [`.`]
 global.sp = '⭔'
