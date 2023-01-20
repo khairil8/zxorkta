@@ -2,15 +2,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // APIKEYS !! \\
-global.zenzkey = 'yourapikey',
-global.zxorkey = 'yourapikey',
-global.zenzkey2 = 'yourapikey',
-global.ckey = 'yourapikey',
-global.zeeone = 'yourapikey',
-global.lolkey = 'yourapikey',
-global.frkey = 'yourapikey',
-global.danzz = 'yourapikey',
-global.apidanz = 'yourapikey',
+global.zenzkey = 'kamugay',
+global.zxorkey = 'kamugay',
+global.zenzkey2 = 'kamugay',
+global.ckey = 'xPxsaElx',
+global.zeeone = 'hCSi66X3',
+global.lolkey = 'kamugay',
+global.frkey = 'hxqkXAHT',
+global.danzz = '92a2n1kb0j',
+global.apidanz = '92y1a7l0a6',
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -30,7 +30,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.saweria = "https://saweria.co/" // saweria donation
 global.sociabuzz = "https://sociabuzz.com/" // saweria donation
 global.nyawer = "https://nyawer.co/" // saweria donation
-global.groupwea = "https://chat.whatsapp.com/EJ0c8rr1jrJK7BvxNOZFs2" // group bot
+global.groupwea = "https://chat.whatsapp.com/Bn7PxZ06B3GL8BDEZhC36T" // group bot
 global.vcardowner = ['60109102984'] //number
 global.allpay = "0109102984" // nomor pertama / first number donate
 global.ownername = 'Khairil春' //owner
@@ -42,24 +42,24 @@ global.ig = "👑 Instagram : @coglah_07" //insta
 global.tg = "💙 Telegram : @Khairilofc" //telegram
 
 //bot bomdy 
-global.groupbot = "https://chat.whatsapp.com/EJ0c8rr1jrJK7BvxNOZFs2"
+global.groupbot = "https://chat.whatsapp.com/Bn7PxZ06B3GL8BDEZhC36T"
 global.owner = ['60109102984']
 global.ownernomer = "60109102984" //ur number
 global.ownernomer2 = "60109102984" // second number
 global.ownernomer3 = "60109102984" // stfu
 global.ownertag = '60109102984' //ur tag number
-global.botname = 'Luffy愛' //ur bot name
-global.ghname = 'Khairil' //ur github name
-global.linkz = "https://chat.whatsapp.com/EJ0c8rr1jrJK7BvxNOZFs2" //your theme url which will be displayed on whatsapp
+global.botname = 'Kao Akebi-Bot愛' //ur bot name
+global.ghname = 'KhairilOFC' //ur github name
+global.linkz = "https://chat.whatsapp.com/Bn7PxZ06B3GL8BDEZhC36T" //your theme url which will be displayed on whatsapp
 global.websitex = "https://linkfly.to/Khairil" //ur website to be displayed
 global.thumbyt = "https://www.youtube.com/watch?v=aHnaBbLKEww" //change if you want to change thumbnail menu
 global.igthumb = "https://www.instagram.com/p/CmgsX4oSfaH/" //ig thumbnail for menu and etc
 global.botscript = 'https://github.com/KhairilOFC' //script link
 global.reactmoji = ["👑", "❤️", "✨", "🦋", "🎉", "💴", "💰", "💋", "❤️", "💛", "🧡", "💚", "💙", "💜", "🍇", "🍎", "🎂", "🍓", "🍫", "🍨", "🍩"] //ur menu react emoji
 global.themeemoji = "🗿" //ur theme emoji
-global.packname = "CeciliaMD\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n• StickerPack " //ur sticker watermark packname
-global.author = "CeciliaMD" //ur sticker watermark author
-global.wm = "CeciliaMD" //ur watermark
+global.packname = "Kao Akebi-Bot愛\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n• StickerPack " //ur sticker watermark packname
+global.author = "Khairil春" //ur sticker watermark author
+global.wm = "Kao Akebi-Bot愛" //ur watermark
 global.shit = `•`
 global.groupsend = '60109102984@g.us' //please change this !!
 
