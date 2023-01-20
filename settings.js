@@ -15,8 +15,8 @@ global.apidanz = 'yourapikey',
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
-global.available = false //auto available (true to on, false to off)
-global.playmusic = false //auto  play music when node zxork.js (Terminal Must Support FFPLAY)
+global.available = true //auto available (true to on, false to off)
+global.playmusic = true //auto  play music when node zxork.js (Terminal Must Support FFPLAY)
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -27,41 +27,41 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.saweria = "https://saweria.co/xylaa" // saweria donation
-global.sociabuzz = "https://sociabuzz.com/luciaximena/tribe" // saweria donation
-global.nyawer = "https://nyawer.co/cecilia/showcase" // saweria donation
+global.saweria = "https://saweria.co/" // saweria donation
+global.sociabuzz = "https://sociabuzz.com/" // saweria donation
+global.nyawer = "https://nyawer.co/" // saweria donation
 global.groupwea = "https://chat.whatsapp.com/EJ0c8rr1jrJK7BvxNOZFs2" // group bot
-global.vcardowner = ['6281338302495'] //number
-global.allpay = "082146482998" // nomor pertama / first number donate
-global.ownername = 'Cecilia Lucia Ximena' //owner
-global.email = "📧 vynx14u@gmail.com" //email
-global.website = "luciaximena.site" //github name
+global.vcardowner = ['60109102984'] //number
+global.allpay = "0109102984" // nomor pertama / first number donate
+global.ownername = 'Khairil春' //owner
+global.email = "📧 khairill8890@gmail.com" //email
+global.website = "https://linkfly.to/Khairil" //github name,
 global.location = "🌍 Isekai, Taman Hiburan Milf, Pemandian Umum Wanita" //location
-global.roblox = "👾 Roblox : @JustRyyXD" //roblox
-global.ig = "👑 Instagram : @ravensvenix" //insta
-global.tg = "💙 Telegram : @vmxone" //telegram
+global.roblox = "👾 ML : 285850096" //roblox
+global.ig = "👑 Instagram : @coglah_07" //insta
+global.tg = "💙 Telegram : @Khairilofc" //telegram
 
 //bot bomdy 
 global.groupbot = "https://chat.whatsapp.com/EJ0c8rr1jrJK7BvxNOZFs2"
-global.owner = ['6281338302495']
-global.ownernomer = "6281338302495" //ur number
-global.ownernomer2 = "6285338440313" // second number
-global.ownernomer3 = "6283899515608" // stfu
-global.ownertag = '6281338302495', '6285338440313', '6283899515608' //ur tag number
-global.botname = 'CeciliaMD' //ur bot name
-global.ghname = 'RavensVenix' //ur github name
+global.owner = ['60109102984']
+global.ownernomer = "60109102984" //ur number
+global.ownernomer2 = "60109102984" // second number
+global.ownernomer3 = "60109102984" // stfu
+global.ownertag = '60109102984' //ur tag number
+global.botname = 'Luffy愛' //ur bot name
+global.ghname = 'Khairil' //ur github name
 global.linkz = "https://chat.whatsapp.com/EJ0c8rr1jrJK7BvxNOZFs2" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/EJ0c8rr1jrJK7BvxNOZFs2" //ur website to be displayed
+global.websitex = "https://linkfly.to/Khairil" //ur website to be displayed
 global.thumbyt = "https://www.youtube.com/watch?v=aHnaBbLKEww" //change if you want to change thumbnail menu
 global.igthumb = "https://www.instagram.com/p/CmgsX4oSfaH/" //ig thumbnail for menu and etc
-global.botscript = 'https://github.com/RavensVenix/zxorkta' //script link
+global.botscript = 'https://github.com/KhairilOFC' //script link
 global.reactmoji = ["👑", "❤️", "✨", "🦋", "🎉", "💴", "💰", "💋", "❤️", "💛", "🧡", "💚", "💙", "💜", "🍇", "🍎", "🎂", "🍓", "🍫", "🍨", "🍩"] //ur menu react emoji
-global.themeemoji = "👑" //ur theme emoji
+global.themeemoji = "🗿" //ur theme emoji
 global.packname = "CeciliaMD\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n• StickerPack " //ur sticker watermark packname
 global.author = "CeciliaMD" //ur sticker watermark author
 global.wm = "CeciliaMD" //ur watermark
 global.shit = `•`
-global.groupsend = '120363048781630513@g.us' //please change this !!
+global.groupsend = '60109102984@g.us' //please change this !!
 
 //Bot theme media
 global.thislogo = ["./storage/image/soktahu.png","./storage/image/bjir.png","./storage/image/woilah.png","./storage/image/okh.png","./storage/image/ancrit.png","./storage/image/ngetest.png","./storage/image/apalah.png","./storage/image/gtw.png","./storage/image/marin.png","./storage/image/marinn.png","./storage/image/okaja.png","./storage/image/aho.png","./storage/image/njir.png","./storage/image/bruh.png","./storage/image/mayan.png","./storage/image/nicelah.png","./storage/image/brutall.png","./storage/image/brutal.png"]
@@ -202,12 +202,12 @@ By using this bot, you agree to the following Terms and Conditions:
 //omther
 global.sessionName = 'session'
 global.public = true
-global.autoreact = false
-global.autoread = false
+global.autoreact = true
+global.autoread = true
 global.autorespondz = true
 global.autoonline = false
 global.autosw = true
-global.sendsw = '6281338302495@s.whatsapp.net'
+global.sendsw = '60109102984@s.whatsapp.net'
 global.autobio = false
 global.prefix = [`.`]
 global.sp = '⭔'
